@@ -6,7 +6,7 @@
 
 
 
-- Questão 1. Compile dos programas (cliente e servidor) TCP e UDP:
+# Questão 1. Compile dos programas (cliente e servidor) TCP e UDP:
 
 a)	Execute o cliente TCP antes de executar o servidor TCP. O que acontece? Por quê?
 
