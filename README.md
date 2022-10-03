@@ -1,7 +1,8 @@
 # Projeto-de-Socket
-Projeto computacional de Socket de Redes De Computadores 5G
+## Projeto computacional de Socket de Redes De Computadores 5G
 
-### Professor: Bruno Rodrigues
+### Professor: 
+- Bruno Rodrigues
 
 ### Alunos:
 
