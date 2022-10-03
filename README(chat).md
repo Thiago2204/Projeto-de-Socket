@@ -5,7 +5,7 @@
    "python Servidor.py " ou "python Cliente.py ".
    
 ### Por exemplo: 
-- Python `Servidor.py` (IP de Thiago) 8081 ou (IP de Professor)
-- Python `Cliente.py` (IP de Kenny) 8081 ou (IP de Aluno)
+- Python `Servidor.py` (IP de Thiago) 8081 ou (IP de Professor) 8081
+- Python `Cliente.py` (IP de Kenny) 8081 ou (IP de Aluno) 8081
 
 - Cada Script deve ser aberto em um computador onde o Script `Cliente.py` vai requisitar a um contato com o `Servidor.Py` via endereco de IP
