@@ -1,3 +1,0 @@
-# Funcionamento
-
-# Testagem
