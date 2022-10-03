@@ -1,7 +1,8 @@
 # Projeto-de-Socket
 ## Projeto computacional de Socket de Redes Computacionais 5G {Utilizando Pygame}
 
-- Jogo da Velha Utilizando Python 
+- Manipulando vários clientes no servidor com multithreading usando programação de soquete utilizando C
+- - Optamos por C pela maior familiaridade com Threads na linguagem
 - Chat entre 2 IPs utilizando Python
 
 
