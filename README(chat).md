@@ -4,6 +4,8 @@
    Terminal (Linux) simplesmente digitando
    "python Servidor.py " ou "python Cliente.py ".
    
-- Por exemplo: 
-python Servidor.py (IP de Thiago) 8081
-python Cliente.py (IP de Kenny) 8081
+### Por exemplo: 
+- Python `Servidor.py` (IP de Thiago) 8081 ou (IP de Professor)
+- Python `Cliente.py` (IP de Kenny) 8081 ou (IP de Aluno)
+
+- Cada Script deve ser aberto em um computador onde o Script `Cliente.py` vai requisitar a um contato com o `Servidor.Py` via endereco de IP
