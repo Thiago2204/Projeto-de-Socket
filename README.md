@@ -4,7 +4,7 @@
 - Manipulando vários clientes no servidor com multithreading usando programação de soquete utilizando C
 - - Optamos por C pela maior familiaridade com Threads na linguagem
 - Chat entre 2 IPs utilizando Python
-
+- - Foi escolhido Python pela maior facilidade da linguagem com o intuito de simplificar o maximo. 
 
 
 ### Questão 1. Compile dos programas (cliente e servidor) TCP e UDP:
