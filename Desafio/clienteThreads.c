@@ -75,7 +75,7 @@ int main()
     case 2: {
         int client_request = 2;
  
-        // Create a thread
+        // Cria uma thread
         pthread_create(&tid, NULL,
                        clienthread,
                        &client_request);
