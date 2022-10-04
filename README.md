@@ -7,4 +7,5 @@
 ### Alunos:
 
 - Thiago Henrique Quadrado Estacio _TIA: 42012740_
-- Kenny
+- Kenny Tanaka _TIA: 32087209_
+
