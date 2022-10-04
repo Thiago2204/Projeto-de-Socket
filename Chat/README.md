@@ -1,3 +1,4 @@
+
 ## Modo de Usar
 
 - Tanto o script do servidor quanto do cliente podem ser executados no prompt de comando (no Windows) ou no bash
