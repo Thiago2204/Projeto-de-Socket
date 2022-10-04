@@ -15,7 +15,7 @@ a)	Execute o cliente TCP antes de executar o servidor TCP. O que acontece? Por q
 
 b)	Faça o mesmo procedimento para o cliente e servidor UDP. O resultado foi similar ao socket TCP? Compare os resultados e justifique.
 
-- O resultado não foi similar ao socket TCP. No Socket TCP, não foi possível que a mensagem fosse encaminhada ao servidor rodando o cliente primero. Já no Socket UDP, a mensagem se dá como enviada executando o cliente antes do servidor. Isso se dá ao fato dos protocolos serem diferentes. O TCP trabalha com envio e confirmação de recepção para considerar uma tarefa concluída, diferentemente do UDP que não trata a perda de pacotes ao longo da transmissão.
+- O resultado não foi igual ao socket TCP. No caso TCP, não foi possível que os dados (mensagem) fosse enviada ao servidor executando o cliente primero. Já no Socket UDP, a mensagem foi enviada executando o cliente antes do servidor. Tal acontecimento se dá se justifica devido aos protocolos serem diferentes. O TCP trabalha com envio e confirmação que os dados foram recibidos, para considerar uma tarefa concluída, no caso do UDP que não trata a perda de pacotes durante a transmissão.
 
 c)	O que acontece se o número da porta que o cliente tentar se conectar for diferente da porta disponibilizada pelo servidor?
 
