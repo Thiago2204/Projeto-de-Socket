@@ -7,6 +7,18 @@
    
 ## Funcionamento   
 
+- Houve o include das seguintes bibliotecas:
+`import socket`
+`import select`
+`import sys`
+
+- Preciso substituir as `IP_address` e `Port
+
+- Caso asa substituicoes de `IP_address` e `Port` forem feitas corretamente e o canal seja estabelecido ele vai imprimir:
+`("Uso correto: script, endereço IP, número da porta")`
+
+- Cria uma lista de fluxos de entrada em:  `sockets_list = [sys.stdin, server]`
+- Ele le o socket com  `read_sockets` e escreve com `write_socket`
 ### Por exemplo: 
 - Python `Servidor.py` (IP de Thiago) 8081 ou (IP de Professor) 8081
 - Python `Cliente.py` (IP de Kenny) 8081 ou (IP de Aluno) 8081
