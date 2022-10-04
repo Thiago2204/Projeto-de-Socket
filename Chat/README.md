@@ -29,6 +29,19 @@
 
 ## Funcionamento   
 
+- incluimos as mesmas bibliotecas, no caso:
+`import socket`
+`import select`
+`import sys`
+
+- Servidor foi atrelado a um socket em `server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)`
+- O endereco de IP recebe o argumento 1 em` = str(sys.argv[1])` 
+- A porta recebe o argumento 2 em` int(sys.argv[2])`
+- `EM server.listen(100)` ele executa 100 conexoes ativas 
+- Na função `clientthread` vai adicionar uma mensagem e ler ela.
+- Na função `broadcast` vai receber a conexção e a mensagem.
+E vai ter um while pra aceitar o cliente e se aceitar o servidor vai da "connected" e, assim fechando o servidor quando acabar a funcionalidade
+- caso conectado ele vai imprimir uma mensagem de conectado caso contrario o vai imprimir o mesmo de que n foi possivel conectar.
 ### Testagem
 ![image](https://user-images.githubusercontent.com/80297158/193922293-6605e273-904f-4a51-bc31-f3640294a6b2.png)
 
