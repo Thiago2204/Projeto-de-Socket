@@ -23,6 +23,21 @@
 
 ## Funcionamento
 
+- Incluimos as seguintes bibliotecas: 
+`#include <arpa/inet.h>`
+`#include <pthread.h>`
+`#include <semaphore.h>`
+`#include <stdio.h>`
+`#include <stdlib.h>`
+`#include <string.h>`
+`#include <sys/socket.h>`
+`#include <unistd.h>`
+
+- Passamos as variaveis dos semáforos 
+- Fizemos laços para as checagens 
+- `sleep` para realizar os respectivos intervalos 
+- De acordo com as Threads, o `semáforo` trava, e reinicia, fazendo esse fluxo de threads
+- Associa cada socket ao seu respectivo endereço
 ## Testagem
 
 ### Vídeo:
