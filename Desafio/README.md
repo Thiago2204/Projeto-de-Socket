@@ -17,6 +17,7 @@
 - Criamos laços para checar o funcionamento.
 - E o `pthread_create` e o `pthread_join` para criar uma thread e dar join nelas respectivamente.
 - Por fim a `sleep` como um intervalo e seu tempo como seu argumento.
+- Cada cliente foi associado a uma thread e espera seu atendimento.
 ## Testagem
 
 # servidorTreads.c
@@ -33,11 +34,12 @@
 `#include <sys/socket.h>`
 `#include <unistd.h>`
 
-- Passamos as variaveis dos semáforos 
-- Fizemos laços para as checagens 
-- `sleep` para realizar os respectivos intervalos 
-- De acordo com as Threads, o `semáforo` trava, e reinicia, fazendo esse fluxo de threads
-- Associa cada socket ao seu respectivo endereço
+- Passamos as variaveis dos semáforos.
+- Fizemos laços para as checagens.
+- `sleep` para realizar os respectivos intervalos.
+- De acordo com as Threads, o `semáforo` trava, e reinicia, fazendo esse fluxo de threads.
+- Associa cada socket ao seu respectivo endereço.
+- Cada thread passa as solicitacoes dos clientes e as atende.
 ## Testagem
 
 ### Vídeo:
