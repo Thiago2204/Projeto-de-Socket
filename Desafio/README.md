@@ -6,4 +6,8 @@
 
 # servidorTreads.c
 
-### Vídeo
+## Funcionamento
+
+## Testagem
+
+### Vídeo:
