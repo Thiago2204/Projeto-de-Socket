@@ -51,7 +51,7 @@ void* reader(void* param)
 // Função digitalizadora 
 void* writer(void* param)
 {
-    printf("Digitalizador se encontra tentando entrar"\n");
+    printf("Digitalizador se encontra tentando entrar\n");
  
     // Trava o semáforo
     sem_wait(&y);
