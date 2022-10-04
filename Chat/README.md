@@ -16,6 +16,8 @@
 ## Testagem
 
 # servidor.py
+![image](https://user-images.githubusercontent.com/80297158/193922293-6605e273-904f-4a51-bc31-f3640294a6b2.png)
+
 
 ## Funcionamento   
 
