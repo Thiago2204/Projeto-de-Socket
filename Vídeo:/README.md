@@ -1,6 +1,6 @@
 # Vídeo:
 
-- Vídeo Chat:
+- Vídeo Chat: https://youtu.be/IzeJgarJjiU
 
 - Vídeo Desafio:
 
