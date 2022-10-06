@@ -1,9 +1,10 @@
 # Vídeos:
 
-- Vídeo Chat: 
+- ### Vídeo Chat: 
 - - https://youtu.be/IzeJgarJjiU
 
-- Vídeo Desafio:
+- ### Vídeo Desafio:
 - - https://youtu.be/J5VX7xg187U
 
-- Vídeo Testagem e dificuldades:
+- ### Vídeo Testagem e dificuldades:
+- - 
