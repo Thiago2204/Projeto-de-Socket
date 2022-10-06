@@ -1,4 +1,4 @@
-# Vídeo:
+# Vídeos:
 
 - Vídeo Chat: 
 - - https://youtu.be/IzeJgarJjiU
