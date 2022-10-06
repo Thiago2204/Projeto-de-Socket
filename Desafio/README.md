@@ -42,5 +42,4 @@
 - Cada thread passa as solicitacoes dos clientes e as atende.
 
 
-### Vídeo:
-- https://youtu.be/J5VX7xg187U
+
